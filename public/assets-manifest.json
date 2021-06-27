@@ -1,0 +1,11 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/amaz.webp": "static/amaz-ef48631399fb74cd6c832797d17a45aa.webp",
+  "static/ecomm.webp": "static/ecomm-a8c1d1fd9dd3b59ee5a2e1340293e229.webp",
+  "static/malnut.webp": "static/malnut-dc4f58027194664c5e86102c7508b119.webp",
+  "static/pothole.webp": "static/pothole-211de8cfba524ac9ce95874c40c74bd2.webp",
+  "static/prof.jpeg": "static/prof-083a6253a7a36a302c7780cfc624e6ab.jpeg",
+  "static/sangit.png": "static/sangit-8937c666fcaf35058b59583b9d8e8070.png",
+  "static/todoist.png": "static/todoist-d0d8e9aee8a8240b7ad6e12faea61e72.png"
+}
